@@ -1,0 +1,5 @@
+numpy==1.23.5
+scipy==1.10.1
+mahotas==1.4.13
+opencv-python
+imutils
