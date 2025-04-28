@@ -87,3 +87,10 @@ jupyter notebook main.ipynb
 2. Extend to real-time video stream detection.
 
 3. Build a simple GUI application for user-friendly object detection.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
